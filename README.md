@@ -1,6 +1,8 @@
 # MovieList App
 
 ---
+Preview Link : https://movielistweb.netlify.app/
+---
 
 A simple and responsive movie list application built with **React.js**. This project allows users to search for movies and add them to a personal "Watch List" for later viewing. It showcases basic state management and client-side routing using React.
 
