@@ -30,8 +30,8 @@ Follow these steps to get a local copy of the project up and running on your mac
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/[YourRepositoryName].git
-    cd [YourRepositoryName]
+    git clone https://github.com/jeremyfasollasido/watch-list-website.git
+    cd watch-list-website
     ```
 2.  **Install dependencies:**
     ```bash
